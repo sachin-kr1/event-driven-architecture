@@ -1,0 +1,5 @@
+com/techbank/account/common/events/AccountClosedEvent.class
+com/techbank/account/common/dto/AccountType.class
+com/techbank/account/common/events/FundsWithdrawnEvent.class
+com/techbank/account/common/events/FundsDepositedEvent.class
+com/techbank/account/common/events/AccountOpenedEvent.class

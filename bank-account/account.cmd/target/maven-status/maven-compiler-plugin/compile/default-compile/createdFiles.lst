@@ -1,0 +1,6 @@
+com/techbank/account/cmd/CommandApplication.class
+com/techbank/account/cmd/api/commands/CloseAccountCommand.class
+com/techbank/account/cmd/infrastructure/AccountCommandDispatcher.class
+com/techbank/account/cmd/api/commands/DepositFundsCommand.class
+com/techbank/account/cmd/api/commands/WithdrawFundsCommand.class
+com/techbank/account/cmd/api/commands/OpenAccountCommand.class

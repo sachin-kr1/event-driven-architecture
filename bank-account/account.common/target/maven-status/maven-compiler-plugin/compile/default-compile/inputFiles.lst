@@ -1,0 +1,5 @@
+/home/fa064296/Documents/projects/event-driven-architecture/bank-account/account.common/src/main/java/com/techbank/account/common/events/AccountClosedEvent.java
+/home/fa064296/Documents/projects/event-driven-architecture/bank-account/account.common/src/main/java/com/techbank/account/common/events/AccountOpenedEvent.java
+/home/fa064296/Documents/projects/event-driven-architecture/bank-account/account.common/src/main/java/com/techbank/account/common/dto/AccountType.java
+/home/fa064296/Documents/projects/event-driven-architecture/bank-account/account.common/src/main/java/com/techbank/account/common/events/FundsWithdrawnEvent.java
+/home/fa064296/Documents/projects/event-driven-architecture/bank-account/account.common/src/main/java/com/techbank/account/common/events/FundsDepositedEvent.java

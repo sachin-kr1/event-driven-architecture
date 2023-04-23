@@ -1,0 +1,6 @@
+/home/fa064296/Documents/projects/event-driven-architecture/bank-account/account.cmd/src/main/java/com/techbank/account/cmd/CommandApplication.java
+/home/fa064296/Documents/projects/event-driven-architecture/bank-account/account.cmd/src/main/java/com/techbank/account/cmd/infrastructure/AccountCommandDispatcher.java
+/home/fa064296/Documents/projects/event-driven-architecture/bank-account/account.cmd/src/main/java/com/techbank/account/cmd/api/commands/OpenAccountCommand.java
+/home/fa064296/Documents/projects/event-driven-architecture/bank-account/account.cmd/src/main/java/com/techbank/account/cmd/api/commands/DepositFundsCommand.java
+/home/fa064296/Documents/projects/event-driven-architecture/bank-account/account.cmd/src/main/java/com/techbank/account/cmd/api/commands/WithdrawFundsCommand.java
+/home/fa064296/Documents/projects/event-driven-architecture/bank-account/account.cmd/src/main/java/com/techbank/account/cmd/api/commands/CloseAccountCommand.java
